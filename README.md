@@ -52,6 +52,42 @@ Correção aplicada com consultas parametrizadas.
 
 📷 Evidência:
 
+<img width="1894" height="887" alt="image" src="https://github.com/user-attachments/assets/24f9d7f7-b856-43be-bafa-c305b9bfaa6f" />
+
+
+
+🔍 Outras Vulnerabilidades Estudadas
+CWE	Tipo
+CWE-78	Command Injection
+CWE-22	Path Traversal
+CWE-798	Hard-coded Credentials
+CWE-327	Weak Cryptography
+CWE-502	Insecure Deserialization
+CWE-94	Uso inseguro de eval()
+CWE-338	Geração insegura de números aleatórios
+
+
+
+📚 Aprendizados Obtidos
+🔁 Funcionamento de uma pipeline CI/CD
+🤖 Automação de verificações de segurança
+🔬 Importância da análise estática de código
+🛡️ Detecção de vulnerabilidades com CodeQL
+📖 Boas práticas de desenvolvimento seguro
+🔗 Integração entre GitHub Actions e CodeQL
+
+
+
+✅ Conclusão
+Este projeto permitiu compreender, na prática, a importância da integração entre automação, testes e segurança no processo de desenvolvimento de software.
+A implementação da pipeline CI/CD com GitHub Actions possibilitou a execução automática de testes e validações a cada alteração realizada no código. Além disso, o uso do CodeQL demonstrou como vulnerabilidades podem ser identificadas antecipadamente, aumentando a confiabilidade e a proteção da aplicação.
+Dessa forma, o trabalho evidenciou a aplicação de conceitos de DevSecOps, reforçando a adoção de práticas de desenvolvimento mais seguras, organizadas e eficientes.
+
+
+
+👨‍💻 Autor
+Projeto desenvolvido para fins acadêmicos na FATEC.
+
 
 
 
