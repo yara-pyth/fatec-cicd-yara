@@ -44,6 +44,17 @@ Resultado obtido: a pipeline foi executada com sucesso, todos os testes passaram
 ❌ Teste 2 — Código Vulnerável
 Inserção proposital de vulnerabilidade SQL Injection (CWE-89):
 
+<img width="1908" height="886" alt="image" src="https://github.com/user-attachments/assets/8a96bad7-d820-4239-94ab-47ba4c472aa9" />
+
+
+🔒 Teste 3 — Código Corrigido
+Correção aplicada com consultas parametrizadas.
+
+📷 Evidência:
+
+
+
+
 
 
 
